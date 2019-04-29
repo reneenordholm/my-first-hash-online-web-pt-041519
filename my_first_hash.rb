@@ -1,8 +1,8 @@
 def my_hash
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
   cat = {
-    cat_one => "Hansel",
-    cat_two => "Frenchie"
+    "First Cat" => "Hansel",
+    "Second Cat" => "Frenchie"
   }
   
 end
